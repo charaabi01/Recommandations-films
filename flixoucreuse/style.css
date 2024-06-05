@@ -1,0 +1,19 @@
+
+
+.hover-image {
+    width : 130%;
+    transition: transform 0.3s ease; /* Smooth transition for the transform property */
+}
+
+.hover-image:hover {
+    transform: scale(1.1); /* Scale the image up to 110% */
+}
+
+.hover-image1 {
+    width : 90%;
+    transition: transform 0.3s ease; /* Smooth transition for the transform property */
+}
+
+.hover-image1:hover {
+    transform: scale(1.1); /* Scale the image up to 110% */
+}
